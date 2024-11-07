@@ -38,7 +38,7 @@ def index() -> str:
     Returns:
         html: homepage
     '''
-    return render_template("index.html")
+    return render_template("3-index.html")
 
 # uncomment this line and comment the @babel.localeselector
 # you get this error:
