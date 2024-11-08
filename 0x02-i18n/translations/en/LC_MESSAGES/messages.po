@@ -38,4 +38,4 @@ msgstr "You are logged in as %(username)s."
 
 #: templates/index.html:16
 msgid "current_time_is"
-msgstr ""
+msgstr "The current time is %(current_time)s."
